@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://contactnextgenplayz.github.io/sitemap-index.xml
